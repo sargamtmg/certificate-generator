@@ -50,7 +50,7 @@ Ctrl + scroll zooms around the pointer. **Fit** or Ctrl 0 shows the whole canvas
 ## Prepare your data
 
 CSV headers become placeholders:
-
+<!-- csv info -->
 ```csv
 name,course,date
 Alex Morgan,Discovery Camp,19 September 2026
