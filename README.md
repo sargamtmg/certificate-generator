@@ -1,4 +1,5 @@
 # Certificate Generator
+<!-- comment -->
 
 Create personalized certificates from CSV or TXT. Export PNG, PDF, or a ZIP of the whole batch. Your files stay on your device.
 
